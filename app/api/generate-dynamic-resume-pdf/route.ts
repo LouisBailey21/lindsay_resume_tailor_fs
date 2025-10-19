@@ -437,7 +437,7 @@ Software Developer I at The Home Spot : 02/2017 – 06/2020
 •	Migrated core applications to AWS cloud infrastructure using EC2, S3, and RDS, leading to a 21% reduction in infrastructure costs and substantial gains in platform reliability and availability during promotional periods.
 •	Automated the CI/CD pipeline using Jenkins and GitLab CI, minimizing manual intervention and reducing release downtime by 32%. This allowed the engineering team to deploy new features and fixes more frequently and reliably, enhancing overall development velocity and minimizing regression risk.
 
-Web/Mobile Developer at Softcom : 11/2015 – 02/2017
+Web/Mobile Developer at Amazon : 11/2015 – 02/2017
 •	Developed and maintained the core learning platform using React.js for the frontend and Node.js with Express.js for the backend, providing students and instructors with a smooth and interactive interface.
 •	Built and integrated RESTful APIs to handle user authentication, course content management, and data synchronization across devices, ensuring a seamless experience for both instructors and learners.
 •	Optimized database schemas in MongoDB to efficiently store course data, quizzes, assignments, and student progress, enabling quick retrieval and secure data handling for millions of users.
